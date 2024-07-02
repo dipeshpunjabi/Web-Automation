@@ -40,7 +40,7 @@ myenv\Scripts\activate
 ```
 3. ***Install required libraries:***
 ```
-   pip install robotframework
+pip install robotframework
 pip install robotframework-seleniumlibrary
 ```
 ## Running the Test
