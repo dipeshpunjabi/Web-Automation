@@ -48,7 +48,7 @@ pip install robotframework-seleniumlibrary
 
 2. Run the test using the following command:
 ```
-robot practo_test.robot
+robot login_test.robot
 ```
 
 
